@@ -1,6 +1,4 @@
-# Hello
-
-I am skuzzymiglet. I like to mess around with computers.
+I like to mess around with computers.
 
 My first computer was a Raspberry Pi. I also used Windows 7, installed a **lot** of malware and got eternally traumatized by bloat.
 
