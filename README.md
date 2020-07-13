@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello
 
-<!--
-**skuzzymiglet/skuzzymiglet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am skuzzymiglet. I like to mess around with computers.
 
-Here are some ideas to get you started:
+My first computer was a Raspberry Pi. I also used Windows 7, installed a **lot** of malware and got eternally traumatized by bloat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I know Python well, I've also been learning Go since October 2019.
+
+I've been using Linux for 4 years, and I've settled on Arch (I will probably not move in a while, Void is 😎 though). I've been hopping between i3, bspwm and DWM as window managers.
+
+I've been using Vim for over a year. Anywhere without Vim keybindings is a dark place for me.
+
+My projects:
+
++ asl (screen timelapses from images)
++ point (portable slide generator)
++ metro (terminal metronome, in progress)
+
+Also, check out [Dotfiles](https://github.com/skuzzymiglet/dotfiles). They're gruvboxy.
+
+I put up articles on my [Blog](https://skuz.xyz/) sometimes.
