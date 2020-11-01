@@ -8,5 +8,5 @@ I'm skuzzymiglet. I write code.
 
 # Where you can find me
 
-[sourcehut](https://git.sr.ht/~skuzzymiglet)
-[Blog](https://skuz.xyz)
++ [sourcehut](https://git.sr.ht/~skuzzymiglet)
++ [Blog](https://skuz.xyz)
