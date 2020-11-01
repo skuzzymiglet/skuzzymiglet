@@ -1,12 +1,12 @@
 I'm skuzzymiglet. I write code.
 
-# Things I've made
+### things I've made
 
-+ greedy - speedreader
-+ metro - metronome
-+ point - slideshow generator
++ [greedy](https://github.com/skuzzymiglet/greedy) - speedreader
++ [metro](https://github.com/skuzzymiglet/metro) - metronome
++ [point](https://github.com/skuzzymiglet/point) - slideshow generator
 
-# Where you can find me
+### where you can find me
 
 + [sourcehut](https://git.sr.ht/~skuzzymiglet)
-+ [Blog](https://skuz.xyz)
++ [blog](https://skuz.xyz)
