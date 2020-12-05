@@ -1,4 +1,4 @@
-I'm skuzzymiglet. I write code.
+Hi, I'm skuzzymiglet
 
 ### things I've made
 
